@@ -1,0 +1,87 @@
+.quote_text {
+  font-size: 1.1rem;
+  margin: 13px;
+  font-weight: bold;
+}
+
+.quote_content {
+  font-size: 1.2rem;
+  margin: 10px;
+  font-weight: bold;
+  font-style: oblique;
+}
+
+.sub_title {
+  display: inline-block;
+  font-size: 2rem;
+  margin: 10px;
+  font-weight: bold;
+  border-bottom: dotted white 3px;
+}
+
+.img {
+  margin: 15px;
+  margin-left: 15px;
+  margin-right: 15px;
+  border: solid white 3px;
+}
+
+.section {
+  border: solid white 3px;
+  border-radius: 1rem;
+  margin: 15px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.further_info {
+  color: yellow;
+}
+p {
+  margin: 0.5rem;
+}
+
+.specific_quote_original {
+  margin: 10px;
+  margin-left: 200px;
+  margin-right: 200px;
+  font-size: 1.3rem;
+  font-style: italic;
+}
+
+.specific_quote_text {
+  margin: 15px;
+  margin-left: 200px;
+  margin-right: 200px;
+  line-height: 1.5rem;
+  font-size: 1.1rem;
+}
+
+.specific_quote_multiimage {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+}
+.specific_quote_multiimage_left {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: flex-start;
+  flex: 1;
+}
+
+.horizontal-line {
+  border-bottom: 3px solid white;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.specific_quote_title {
+  margin: 15px;
+  margin-left: 200px;
+  margin-right: 200px;
+  font-size: 2rem;
+}
